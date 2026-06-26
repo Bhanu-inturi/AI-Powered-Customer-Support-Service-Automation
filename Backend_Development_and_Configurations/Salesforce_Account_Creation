@@ -11,6 +11,7 @@ A Salesforce Developer Edition account was created to provide a cloud-based envi
 ---
 
 ## Account Creation Steps
+![alt text](<Build for the Agentic.png>)
 
 ### Step 1: Register for Salesforce Developer Edition
 
@@ -36,6 +37,7 @@ A Salesforce Developer Edition account was created to provide a cloud-based envi
 3. Create a secure password.
 4. Select a security question and provide an answer.
 5. Complete the account activation process.
+![alt text](<Your Developer Edition Toolkit.png>)
 
 ---
 
@@ -78,6 +80,7 @@ The Developer Edition account provides access to:
 ## Outcome
 
 The Salesforce Developer Edition account was successfully created and configured. It serves as the development environment for implementing the AI-Powered Customer Support & Service Automation system, enabling the creation of custom objects, automation workflows, AI-powered prompts, and secure user access.
+![alt text](salesforce.png)
 
 ---
 
